@@ -8,6 +8,7 @@ this will open a VS Code app in your browser.
 
 Note: This will utilize your personal GitHub Codespaces credits.
 
+
 ### Using VS Code in your computer
 Make sure to install [VS Code](https://code.visualstudio.com/download)
 Install the following extensions:
